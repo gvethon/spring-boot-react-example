@@ -5,6 +5,7 @@
 !server/pom.xml
 !server/mvnw
 !server/mvnw.cmd
+!server/.mvn/**
 
 !client/public/**
 !client/src/**
